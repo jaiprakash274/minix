@@ -1,4 +1,4 @@
-
+![Minix Image](https://github.com/jaiprakash274/minix/blob/main/Minix.jpeg)
 # MiniX
 MiniX is a minimal yet powerful state management & dependency injection library for flutter app and clear syntax focused on simplicity.
 ## Built with ❤️ by [Jai Prakash Thawait](https://github.com/jaiprakash02)
