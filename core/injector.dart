@@ -1,7 +1,4 @@
-abstract class Injectable {
-  void onInit() {}
-  void onDispose() {}
-}
+import 'package:minix/core/injectable.dart';
 
 typedef InjectorHook = void Function(String event, Type type);
 
