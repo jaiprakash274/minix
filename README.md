@@ -1,3 +1,4 @@
+![Minix Banner](https://github.com/jaiprakash274/minix/blob/main/Minix.jpeg)
 
 ### Minix 🚀
 A powerful, lightweight state management and dependency injection solution for Flutter applications. Minix provides reactive programming capabilities with minimal boilerplate and maximum performance.
